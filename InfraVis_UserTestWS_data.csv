@@ -1,0 +1,13 @@
+Task ID,Visualization,Metric,Participant_01,Participant_02,Participant_03,Participant_04,Participant_05,Participant_06,Participant_07,Participant_08,Participant_09,Participant_10,Participant_11,Participant_12,Participant_13,Participant_14,Participant_15
+Task 1,Ventusky,Time,39,37,29,40,31,25,40,27,40,26,33,34,39,30,34
+Task 1,Ventusky,Actions,6,7,5,7,5,7,6,5,6,5,6,6,5,5,5
+Task 1,Windy,Time,25,32,25,33,35,30,40,31,37,34,31,34,27,26,33
+Task 1,Windy,Actions,7,4,7,5,6,4,7,4,7,4,7,7,5,7,5
+Task 2,Ventusky,Time,101,140,102,104,107,123,91,121,102,111,140,114,103,116,111
+Task 2,Ventusky,Actions,77,77,68,71,61,89,34,73,79,27,72,79,24,87,25
+Task 2,Windy,Time,134,121,141,119,136,124,144,129,141,105,102,139,149,131,119
+Task 2,Windy,Actions,38,36,82,38,77,74,81,42,28,31,20,45,20,53,67
+Task 3,Ventusky,Time,44,27,32,40,20,35,26,24,41,42,22,31,45,35,38
+Task 3,Ventusky,Actions,10,11,14,11,12,13,11,14,12,14,11,10,15,16,14
+Task 3,Windy,Time,24,41,44,33,24,34,36,33,39,24,31,35,45,45,35
+Task 3,Windy,Actions,10,10,10,10,11,11,10,10,10,11,11,10,11,10,11
